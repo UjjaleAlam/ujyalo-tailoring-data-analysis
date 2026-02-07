@@ -77,4 +77,5 @@ This project helped me:
 -Create simple visualizations to summarize transactional patterns
 
 
--understand how IT tools can be applied to real-world data, particularly in small business contexts.
+-Understand how IT tools can be applied to real-world data, particularly in small business contexts.
+
