@@ -32,14 +32,14 @@ Cleaning and validation steps are implemented in a separate script (`data_cleani
 ## Analysis Performed
 Exploratory analysis was conducted using Pandas and Matplotlib and focused on basic descriptive insights derived from the available data.
 
-Visualizations Generated
+###Visualizations Generated
 
 The analysis produced two figures:
 
--Transaction Distribution: New vs Returning Customers
+**Transaction Distribution: New vs Returning Customers**
   A bar chart showing the number of transactions from new customers compared to returning customers over the observed period.
 
--Product Dominance by Quantity
+**Product Dominance by Quantity**
   A bar chart showing total quantities for each product category (coat, waistcoat, shirt, pant, other), highlighting which services were most frequently ordered.
 
 In addition to the visualizations, total revenue and customer proportions were calculated and printed to the console.
@@ -75,5 +75,6 @@ This project helped me:
 -Perform basic exploratory data analysis in Python
 
 -Create simple visualizations to summarize transactional patterns
+
 
 -understand how IT tools can be applied to real-world data, particularly in small business contexts.
